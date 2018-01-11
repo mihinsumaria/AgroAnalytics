@@ -1,5 +1,5 @@
 # AgroAnalytics
-Agro Analytics - Data Mining/Machine Learning Project based on Agricultural datasets. For more info, go to www.agroanalytics.info 
+Agro Analytics - Data Mining/Machine Learning Project based on Agricultural datasets.
 
 ## Data
 1. Rainfall - Raw Rainfall Data (From http://maharain.gov.in/)
@@ -29,3 +29,5 @@ Agro Analytics - Data Mining/Machine Learning Project based on Agricultural data
 12. C2ID3/SVCRBF/RFC.py - Classifier 2 
 
 ## Results - Confusion Matrices for both classifiers
+
+For a more comprehensive report please go [here](https://github.com/mihinsumaria/AgroAnalytics/blob/master/Agro%20Analytics%20Project%20Report.pdf).
